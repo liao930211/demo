@@ -4,6 +4,6 @@
 public class Demo {
 
     public static void main(String[] args){
-        System.out.println("这是第三个Gitup的Demo");
+        System.out.println("http://www.runningcheese.com/hosts");
     }
 }
